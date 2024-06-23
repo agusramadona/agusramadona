@@ -1,13 +1,5 @@
 Hi 👋 My name is Agus Ramadona
-Programmer - System Administrator - Data Center Engineer
-With more than 10 years as a System Administrator, Programmer & Data Center Engineer 
-🌍  I'm based in Indonesia* 
-🖥️  See my portfolio at [Tekra](http://tekratech.com)* 
-✉️  You can contact me at [agusramadona@gmail.com](mailto:agusramadona@gmail.com)* 
-🚀  I'm currently working on [Kokaya - Indonesia Search Engine](http://(s)kokay.id)* 
-🧠  I'm learning Machine Learning/Generative AI, Rust Programming Language* 
-🤝  I'm open to collaborating on Interesting Project* 
-⚡  I also love playing with Arduino, Raspberry Pi and trying other microcontrollers.
+==============================Programmer - System Administrator - Data Center Engineer--------------------------------------------------------More than 10 years System Administrator, Programmer & Data Center Engineer* 🌍  I'm based in Indonesia* 🖥️  See my portfolio at [Tekra](http://tekratech.com)* ✉️  You can contact me at [agusramadona@gmail.com](mailto:agusramadona@gmail.com)* 🚀  I'm currently working on [Kokaya - Indonesia Search Engine](http://(s)kokay.id)* 🧠  I'm learning Machine Learning/Generative AI, Rust Programming Language* 🤝  I'm open to collaborating on Interesting Project* ⚡  I also love playing with Arduino, Raspberry Pi and trying other microcontrollers.
 
 ### Skills
 
